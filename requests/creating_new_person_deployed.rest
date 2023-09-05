@@ -1,0 +1,7 @@
+POST https://lively-sound-7267.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "Sean Park",
+    "number": "123-987"
+}
